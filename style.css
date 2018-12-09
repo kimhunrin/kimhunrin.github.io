@@ -1,5 +1,5 @@
-
-/*.a{
+/*
+.a{
 	background-color: green;background-size: 40px;
 	position: absolute; top:0px; left: 1050px; width: 500px; height: 1000px;
 }
@@ -13,8 +13,18 @@
     height: 1050px;
 }
 .c{
-	background-color: pink; background-size: 40px; position: absolute;
-	top: 0px; float: 0px; height: 
+	background-color: pink; 
+	background-size: 40px; 
+	position: absolute;
+	top: 0px;
+	height: 1000px;
+}
+.a{
+	background-color: tomato;
+	background-size: 50px;
+	position: absolute;
+	top: 0x;
+	height: 1000px;
 }*/
 
 
